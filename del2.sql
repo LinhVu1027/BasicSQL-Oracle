@@ -1,0 +1,1 @@
+select DROP_ALL_SCHEMA_OBJECTS from dual;
